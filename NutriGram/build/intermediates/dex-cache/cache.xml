@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Kyle/Desktop/msHacks2017/NutriGram/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="f4a341d5d4f15ef979fa54545c42fce9e7febd9c">
+        <dex dex="/Users/Kyle/Desktop/msHacks2017/NutriGram/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8a9b109c97e43ae4d0a90919e4c2559098bb30c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kyle/Desktop/msHacks2017/NutriGram/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="a27ca9624d4a5513fd01661363ba381bea88634b">
+        <dex dex="/Users/Kyle/Desktop/msHacks2017/NutriGram/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_71e2d8850b1d463a2b325778f03ca02af7379d59/classes.dex" />
+    </item>
+
+</items>
