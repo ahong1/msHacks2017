@@ -1,5 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
 
+
     package="nutrigram.nutrigram">
 
     <application
@@ -11,5 +12,7 @@
         android:theme="@style/AppTheme">
 
     </application>
+
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
 
 </manifest>
